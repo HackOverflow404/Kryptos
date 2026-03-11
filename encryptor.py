@@ -1,5 +1,5 @@
 """
-cipher.py — Prism Cipher core logic (ANNOTATED LEARNING VERSION)
+encryptor.py — Kryptos App core logic (ANNOTATED LEARNING VERSION)
 =================================================================
 This file walks through each concept with explanations and blanks
 for the key implementation details. Fill in the [ ? ] sections to

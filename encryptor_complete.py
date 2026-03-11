@@ -1,7 +1,7 @@
 """
-cipher.py — Prism Cipher core logic
+encryptor_complete.py — Kryptos core logic
 ====================================
-The Prism Cipher is a symmetric encryption scheme built from three layers:
+The Kryptos is a symmetric encryption scheme built from three layers:
 
   1. Spiral Keystream  — the passphrase is expanded into a pseudo-random
      byte stream.  Each byte is:

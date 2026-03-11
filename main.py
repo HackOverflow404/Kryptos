@@ -1,5 +1,5 @@
 """
-main.py — Prism Cipher entry point
+main.py — Kryptos App entry point
 =====================================
 Run this file to launch the application:
 
