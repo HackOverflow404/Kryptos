@@ -7,8 +7,8 @@ touches the algorithm directly.
 """
 
 import tkinter as tk
-# from encryptor_complete import encrypt, decrypt
-from encryptor import encrypt, decrypt
+from encryptor_complete import encrypt, decrypt
+# from encryptor import encrypt, decrypt
 
 # ── theme constants ────────────────────────────────────────────────────────────
 
